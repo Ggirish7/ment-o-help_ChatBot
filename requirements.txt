@@ -3,3 +3,4 @@ Gunicorn
 nltk==3.8.1
 numpy==1.22.2
 keras==2.11.0
+tensorflow
